@@ -180,7 +180,7 @@ app.delete("/user/:id", (req, res) => {
                 }
             });
           }
-        })
+        });
     } catch (err) {
     res.send("some error with DB");
   }
