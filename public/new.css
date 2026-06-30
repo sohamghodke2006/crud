@@ -4,6 +4,13 @@ body {
     padding: 40px;
 }
 
+h2 {
+    font-size: 18px;
+    color: #2c3e50;
+    margin-bottom: 20px;
+    font-weight: 600;
+}
+
 form {
     background: white;
     padding: 24px;
