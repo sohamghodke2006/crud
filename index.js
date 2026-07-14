@@ -20,7 +20,7 @@ const connection = mysql.createConnection({
     host: "localhost",
     user: "root",
     database: "Node_SQL",
-    password: "soham2006"
+    password: ""
 });
 
 let getRandomUser = () => {
